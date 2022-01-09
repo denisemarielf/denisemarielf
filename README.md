@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Denise
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning Full Stack JavaScript, following The Odin Project curriculum
+- 📫 How to reach me: follow me on Twitter! @denisemarielf
