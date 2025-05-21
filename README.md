@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Denise
-- 👀 I’m interested in front-end web development
+- 👀 I’m interested in web development
